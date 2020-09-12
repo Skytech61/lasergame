@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "randomRing\\random.ino",
+    "port": "COM3",
+    "debugger": "C:/Program Files (x86)/Arduino/arduino_debug.exe",
+    "output": "build"
+}

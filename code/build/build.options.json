@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=f:\\Skytech\\Microsoft\\Cours\\Informatique\\Structure\\6TQ\\Projet laser game\\code\\build,build.warn_data_percentage=75,runtime.tools.avr-gcc.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5,runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino5.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avr-gcc\\7.3.0-atmel3.6.1-arduino5,runtime.tools.arduinoOTA.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0,runtime.tools.arduinoOTA-1.3.0.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\arduinoOTA\\1.3.0,runtime.tools.avrdude.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17,runtime.tools.avrdude-6.3.0-arduino17.path=C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\avrdude\\6.3.0-arduino17",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Program Files (x86)\\Arduino\\hardware,C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\usta6\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10810",
+  "sketchLocation": "f:\\Skytech\\Microsoft\\Cours\\Informatique\\Structure\\6TQ\\Projet laser game\\code\\randomRing\\random.ino",
+  "toolsFolders": "C:\\Program Files (x86)\\Arduino\\tools-builder,C:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,C:\\Users\\usta6\\AppData\\Local\\Arduino15\\packages"
+}
